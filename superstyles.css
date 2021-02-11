@@ -1,0 +1,9 @@
+.pic-frame {
+  height: 400px;
+  background-size: cover;
+  color: white;
+}
+
+.pic-religion-mobile-responsive > .pic-frame {
+  display: none;
+}
